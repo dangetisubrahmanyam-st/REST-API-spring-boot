@@ -1,2 +1,2 @@
-# REST-API-spring-boot
-REST API using spring boot
+# st-training-java
+Sample REST API Java Project for training
